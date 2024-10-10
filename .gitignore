@@ -1,0 +1,6 @@
+# all slurm output files
+errors*.dat
+output*.dat
+
+# raw ouput folders
+rawout/
