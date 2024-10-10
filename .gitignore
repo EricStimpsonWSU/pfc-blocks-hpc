@@ -1,3 +1,9 @@
+# compilation files
+global_variables.mod
+*.o
+*.mod
+*.out
+
 # all slurm output files
 errors*.dat
 output*.dat
